@@ -8,7 +8,7 @@
     <link href="/2023/02/15/%E5%BC%80%E7%AF%87/"/>
     <url>/2023/02/15/%E5%BC%80%E7%AF%87/</url>
     
-    <content type="html"><![CDATA[<p>兜兜转转，我有来到了 github io，我叼！</p>]]></content>
+    <content type="html"><![CDATA[<p>兜兜转转，我有来到了 github io，我叼！</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-type">int</span> <span class="hljs-title function_">main</span><span class="hljs-params">()</span> &#123;<br><br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;我他妈来了....\n&quot;</span>);<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
     
     
     
